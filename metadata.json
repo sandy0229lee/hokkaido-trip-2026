@@ -1,0 +1,8 @@
+{
+  "description": "Hokkaido Trip 2026 Travel App with AI Scanning and Expense Splitting.",
+  "name": "hokkaido-trip-2026",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
